@@ -1,2 +1,2 @@
-# IMDB_And_Sarcasm_-Text_Classification_-Subwords_Classification-_Problems-
+# IMDB_And_Sarcasm_Text_Classification_Problems
 IMDB_And_Sarcasm_(Text_Classification_(Subwords_Classification)_Problems)
